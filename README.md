@@ -1,3 +1,3 @@
 # Prediction-of-Agriculture-Crop-Production-in-India
- Crop yield prediction is an important aspect of agriculture that helps farmers make informed decisions about their crops. It involves estimating the number of crops that will be produced in a given area based on various factors such as soil type, weather conditions, and crop management practices.
-
+ This repository focuses on analyzing and predicting agricultural crop production in India to assist stakeholders in making informed decisions. By leveraging data analytics and visualization tools, the project provides actionable insights into crop yield patterns.
+ **Power BI Integration:** Developed an interactive Power BI report 📊 for dynamic data visualization and real-time insights.
